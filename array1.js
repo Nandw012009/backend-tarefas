@@ -11,3 +11,7 @@ frutas.push("pessego");
 frutas.unshift("pera");
 console.log(frutas);
 console.log(frutas.length);
+
+frutas[3] = "abacate";
+frutas.push("melão");
+console.log(frutas)
